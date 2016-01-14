@@ -1,0 +1,8 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://miteruel.github.io
+title: miteruel
+tagline: Proyectos made in Teruel
+description: Otro sitio de temas de programación.<br />Delphi, JavaScript, ActionSctipt
+paginate: 5
